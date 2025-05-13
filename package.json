@@ -1,0 +1,26 @@
+{
+  "name": "admissionprocess-project",
+  "version": "1.0.0",
+  "description": "Admission Process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nivruttipandhare/Admisson_Process.git"
+  },
+  "author": "Access Denied",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nivruttipandhare/Admisson_Process/issues"
+  },
+  "homepage": "https://github.com/nivruttipandhare/Admisson_Process#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "boostrap": "^2.0.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mysql": "^2.18.1"
+  }
+}
